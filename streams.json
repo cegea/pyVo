@@ -1,0 +1,26 @@
+[
+    {
+        "id": "a3f11cbe2d144dfe8a8927b4ca5195cc55fb45ab",
+        "start_time": "2024-11-15T10:00:00",
+        "end_time": "2024-11-15T10:30:00",
+        "output_file": "stream1.ts"
+    },
+    {
+        "id": "7f8ad9d2c8c3a4f96754321de459b7ab8132ef56",
+        "start_time": "2024-11-15T19:25:00",
+        "end_time": "2024-11-15T20:30:00",
+        "output_file": "stream2.ts"
+    },
+    {
+        "id": "c5e87912abf4d6e8c1973d5ae4f9218d8b2c1468",
+        "start_time": "2024-11-15T19:25:00",
+        "end_time": "2024-11-15T20:30:00",
+        "output_file": "stream3.ts"
+    },
+    {
+        "id": "4d51bfc3e7a8c129e6f9d421bf6e2a4f97b0ac2d",
+        "start_time": "2024-11-15T19:25:00",
+        "end_time": "2024-11-15T20:30:00",
+        "output_file": "stream4.ts"
+    }
+]
