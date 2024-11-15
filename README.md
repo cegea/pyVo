@@ -1,4 +1,4 @@
-# Stream Recorder
+# pyVo - Stream Recorder
 
 This application allows you to schedule and record multiple streams defined in a streams.json file. It handles start and end times, reconnects if the connection is lost during recording, and saves recordings to specified output files.
 
